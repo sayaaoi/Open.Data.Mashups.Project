@@ -1,4 +1,4 @@
-# Popularity of LGBT/Feminist movies by state in US
+# Reactions to LGBT/Feminist movies and Political tendency by state in US
 
 
 - If people’s opinion and interest towards LGBT/feminism movies are divided by state.
