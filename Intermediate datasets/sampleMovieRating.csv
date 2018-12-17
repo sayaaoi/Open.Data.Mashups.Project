@@ -1,0 +1,30 @@
+,movieId,rating,title,genres
+50,1611,0.20000000000000018,my own private idaho,Drama|Romance
+99,2959,1.0,fight club,Action|Crime|Drama|Thriller
+154,5367,0.56,my beautiful laundrette,Drama|Romance
+198,7154,0.40000000000000013,mona lisa smile,Drama|Romance
+206,7487,0.20000000000000018,henry & june,Drama
+264,39183,0.4892857142857143,brokeback mountain,Drama|Romance
+302,54004,-0.04999999999999993,i now pronounce you chuck and larry,Comedy|Romance
+362,71205,0.32000000000000006,jennifer's body,Comedy|Horror|Sci-Fi|Thriller
+0,x,-0.09999999999999998,Anatomy of Hell,x
+1,x,0.40000000000000013,being julia,x
+2,x,0.5800000000000001,call me by your name,x
+3,x,0.44000000000000017,Carol,x
+4,x,0.40000000000000013,Christopher and his Kind,x
+5,x,0.3800000000000001,Fabulous! The Story of Queer Cinema,x
+6,x,0.40000000000000013,Fellini Satyricon,x
+7,x,0.26,I Spit on Your Grave,x
+8,x,0.52,Iron Jawed Angels,x
+9,x,0.6600000000000001,Lawrence of Arabia,x
+10,x,0.45999999999999996,"Merry Christmas, Mr. Lawrence",x
+11,x,0.56,Miller's Crossing,x
+12,x,0.2400000000000002,Naked Vengeance,x
+13,x,0.11999999999999988,Naomi and Ely's No Kiss List,x
+14,x,0.3400000000000001,Pink Narcissus,x
+15,x,0.15999999999999992,The Ballad of Josie,x
+16,x,0.3400000000000001,The Hunger Games- Mockingjay,x
+17,x,0.2400000000000002,The love witch,x
+18,x,0.52,The Picture of Dorian Gray,x
+19,x,0.54,The Wedding Banquet,x
+20,x,0.52,Waiting for Guffman,x
